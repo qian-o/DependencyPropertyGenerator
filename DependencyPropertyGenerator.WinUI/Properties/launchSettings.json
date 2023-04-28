@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "DependencyPropertyGenerator.WinUI (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "DependencyPropertyGenerator.WinUI (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
